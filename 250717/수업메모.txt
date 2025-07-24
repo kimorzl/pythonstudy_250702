@@ -1,0 +1,28 @@
+지난시간 개념 복습
+
+1. API = Application Programming Interface
+- 어떤 프로그램을 제작하는데 필요한 요소를 외부에서 가져다가 사용할 수 있도록 해주는 설정
+- API는 대부분 URL의 형태를 가짐
+- URL 형태의 API를 Rest API라고 부름
+
+2. KAKAO // naver 실습
+- kakao : JS를 활용해 직접 API 데이터를 찾아와 웹상 지도 구현
+- naver : 검색 데이터 > 블로그, 뉴스, 쇼핑 카테고리에서 데이터 크롤링
+(postman을 활용해 손쉽게 key, value를 확인하며 데이터 수집)
+
+
+3. Json, Xml
+- API를 통한 데이터 크롤링 할 경우 발생하는 데이터 확장자
+- Json : Javascript Object Notation (객체 표기법 -> 딕셔너리 형태와 유사)
+- Xml : extensible markup language의 약자, html처럼 태그로 구성된 문서 형태
+	(1) html은 이미 약속된 태그를 가지고 만들어진 문서 형태 
+	(2) 최초에 문서를 개발한 개발자가 직접 정의한 태그를 기준으로 문서가 작성
+	
+
+https://~ url주소는 문자열로 이루어짐
+이미지를 가져와 엑셀에 담아와야함
+이미지와 동영상은 이진수로 나타내어짐
+
+1. 2진수(0,1)로 표현
+2. 8진수(이진수는 1개당 1bit가 모이며 8bit가 모이면 1byte가 됨)
+3. 16진수(0 ~ F까지 다루는 표현법, A~F는 컬러표기법이며, 컬러는 1byte=8bit를 의미)
